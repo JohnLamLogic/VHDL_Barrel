@@ -1,6 +1,7 @@
 # VHDL 16-to-32-bit Barrel Shifter
 
 A high-performance barrel shifter designed in VHDL that can perform arithmetic and logical shifts on a 16-bit value in a single clock cycle.
+*THIS WAS DONE AS A GROUP EFFORT WITH CLASSMATES*
 
 > The block diagram illustrating the architecture of the barrel shifter.
 
